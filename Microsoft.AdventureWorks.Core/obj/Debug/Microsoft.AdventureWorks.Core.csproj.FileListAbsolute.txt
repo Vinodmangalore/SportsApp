@@ -1,0 +1,8 @@
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Core\bin\Debug\Microsoft.AdventureWorks.Core.dll
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Core\bin\Debug\Microsoft.AdventureWorks.Core.pdb
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Core\obj\Debug\Microsoft.AdventureWorks.Core.dll
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Core\obj\Debug\Microsoft.AdventureWorks.Core.pdb
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Core\bin\Debug\Microsoft.AdventureWorks.Core.dll
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Core\bin\Debug\Microsoft.AdventureWorks.Core.pdb
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Core\obj\Debug\Microsoft.AdventureWorks.Core.dll
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Core\obj\Debug\Microsoft.AdventureWorks.Core.pdb

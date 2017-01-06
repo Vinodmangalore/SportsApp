@@ -1,0 +1,31 @@
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.AdventureWorks.Business.dll
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.AdventureWorks.Business.pdb
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.AdventureWorks.Core.dll
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.AdventureWorks.Data.dll
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\EntityFramework.dll
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.AdventureWorks.Core.pdb
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.AdventureWorks.Data.pdb
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\EntityFramework.xml
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\obj\Debug\Microsoft.AdventureWorks.Business.csprojResolveAssemblyReference.cache
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\obj\Debug\Microsoft.AdventureWorks.Business.dll
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\obj\Debug\Microsoft.AdventureWorks.Business.pdb
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.Practices.Unity.dll
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.Practices.Unity.xml
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\AdventureWorksMVC\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.AdventureWorks.Business.dll
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.AdventureWorks.Business.pdb
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.AdventureWorks.Core.dll
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.AdventureWorks.Data.dll
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Business\bin\Debug\EntityFramework.dll
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.AdventureWorks.Core.pdb
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Business\bin\Debug\Microsoft.AdventureWorks.Data.pdb
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Business\bin\Debug\EntityFramework.xml
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Business\obj\Debug\Microsoft.AdventureWorks.Business.csprojResolveAssemblyReference.cache
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Business\obj\Debug\Microsoft.AdventureWorks.Business.dll
+C:\Users\v-kuvin\Desktop\SportsApp (1)\SportsApp\Microsoft.AdventureWorks.Business\obj\Debug\Microsoft.AdventureWorks.Business.pdb
