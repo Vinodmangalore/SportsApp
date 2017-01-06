@@ -19,6 +19,7 @@ namespace SportsWeb.Controllers
         public ActionResult Index()
         {
             var address = addressManager.GetAll();    
+
             return View(address.ToList());
         }
 
